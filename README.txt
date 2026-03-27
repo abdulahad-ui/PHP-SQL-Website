@@ -1,4 +1,6 @@
-NOVANEST STORE SETUP
+NOVANEST- A Multi purpose shopping website by Abdul Ahad
+
+NOVANEST SETUP
 
 1. Extract this folder into htdocs 
 2. Start Apache and MySQL in XAMPP 
